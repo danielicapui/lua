@@ -1,0 +1,2 @@
+# lua
+Algorítmos de lua
